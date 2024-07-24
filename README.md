@@ -1,8 +1,8 @@
 ## Hi there 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cynthia-or/)
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://cor100.github.io/) -->
-Computer science student at Princeton University. Aspiring software developer. 
-Currently working on: Unity game based on IDV 
+Computer science student at Princeton University. Aspiring software developer. <br/>
+Currently working on: Unity game based on IDV lore 
 
 <!--
 **cor100/cor100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
